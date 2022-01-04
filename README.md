@@ -1,2 +1,2 @@
 # Bootcamp-Inter
-Bootcamp Inter - Front end
+Netflix clone - Front end
